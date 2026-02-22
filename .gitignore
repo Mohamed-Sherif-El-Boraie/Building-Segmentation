@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data
+data/tif_tiles_1024_128/
+data/tif_tiles_512_128/
+data/png_tiles_512_128/
+data/annotated_data/
+data/enhanced_data/
+data/enhanced_topographic_tiles_512_128/
+data/gemini_image_tiles/
+data/segmentation_output_v2/
+data/enhanced_topographic_tiles_png_512_128/
+data/raw_data/
+data/
+output/
+data/plot_segmentation/
+data/segmentation_output/
+data/segmentation_output_raw/
+data/tile_0008_0029.tif
+data/tile_r001792_c011648_x2.png
+
+runs/
+models/
